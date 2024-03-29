@@ -1,0 +1,5 @@
+# Here are the files to ignore in git
+# Ignore the analysis subdirectory and all txt files
+analysis/
+*.txt
+
